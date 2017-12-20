@@ -1,6 +1,6 @@
 {
     "name": "Eigen",
-    "version": "3.13.1",
+    "version": "3.3.4",
     "keywords": "Matrix Library",
     "description": "Efficient Header based Eigen matrix library",
     "repository":
@@ -9,5 +9,5 @@
         "url": "https://github.com/mcprakash/Eigen.git"
     },
     "frameworks": ["arduino", "mbed"],
-    "platforms": ["atmelsam", "ststm32"]
+    "platforms": ["atmelsam", "ststm32", "teensy"]
 }
